@@ -1,4 +1,4 @@
-import {createApp} from './vue.mjs'
+import {createApp} from './vue.js'
 
 const app = createApp({
     data() {
